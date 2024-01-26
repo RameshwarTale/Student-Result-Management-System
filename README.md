@@ -1,3 +1,1 @@
-# StudentResultProject
-# StudentResultProject
-# StudentResultProject
+Software for Displaying Student Results
